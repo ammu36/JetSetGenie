@@ -1,4 +1,4 @@
-﻿routeID,source,target,distance,road_condition,railway_availablity
+﻿routeID,source,target,distance,road_conditions,railway_availability
 1,101,102,153,"[1,3]",1
 2,101,103,187,[2],0
 3,102,103,99,"[2,4]",1
